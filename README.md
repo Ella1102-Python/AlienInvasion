@@ -15,7 +15,7 @@ It include 6 big part (class):
 6.Action (shooting, Delete the aliens from the screen and so on~)
 In each big part,it all has some small part, I won't elaborate here.
 
-AI'm very busy now, so I don't know when this web will be update...
+As a studnt,I'm very busy now, so I don't know when this web can be update...
 You can contact me in this following ways:
 
 E-mail: ella1102@xiaocao.onmicrosoft.com
