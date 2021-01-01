@@ -1,11 +1,9 @@
 # AlienInvasion
-------------Introduce Myself--------------------------------
 Hi! 
 I'm Ella, a girl who is 12 years old. You can also call me "jiuyi".
 I come from China and my English is not very well. So if I have some Grammar error...Tell me please! I want to practice my English!
 I am a busy girl because I will go to middle school soon, so I don't have enough time to update my code and this web... Thanks for your understanding!
 
--------------The following is the main text-----------------
 This item is my first item--AlienInvasion!
 I read 《Python Crash Course》 and found it, it's a funny game that made by Pygame (a module in Python).
 It include 6 big part (class):
@@ -17,9 +15,7 @@ It include 6 big part (class):
 6.Action (shooting, Delete the aliens from the screen and so on~)
 In each big part,it all has some small part, I won't elaborate here.
 
--------------About Update and Program-----------------------
 AI'm very busy now, so I don't know when this web will be update...
 You can contact me in this following ways:
 
--------------My contact information-------------------------
 E-mail: ella1102@xiaocao.onmicrosoft.com
