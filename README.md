@@ -5,9 +5,9 @@ I come from China and my English is not very good. So if I have some grammar mis
 I am a busy girl because I will go to middle school soon, so I don't have enough time to update my code and this web... Thanks for your understanding!
 
 This item is my first program--AlienInvasion!
-I read 《Python Crash Course》 and found it, it's a funny game that made by Pygame (a module in Python).
+I read " Python Crash Course " and found it, it's a funny game that made by Pygame (a module in Python).
 
-It include 6 big part (class):
+It include 6 big parts (class):
 1.Main code
 
 2.Settings (save all the attribute)
