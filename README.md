@@ -27,6 +27,8 @@ You can contact me in this following ways:
 
 E-mail: ella_1102@xiaocao.onmicrosoft.com
 
----------------------------------------------------------------------------------
+| Active Issues | Solved Issues | License |
+| :---: | :---: | :---: |
+| [![DeepSource](https://deepsource.io/gh/Ella1102-Python/AlienInvasion.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/Ella1102-Python/AlienInvasion/?ref=repository-badge) | [![DeepSource](https://deepsource.io/gh/Ella1102-Python/AlienInvasion.svg/?label=resolved+issues&show_trend=true)](https://deepsource.io/gh/Ella1102-Python/AlienInvasion/?ref=repository-badge) | ![License](https://img.shields.io/github/license/Ella1102-Python/AlienInvasion?logo=license&style=flat-square)
 
 
