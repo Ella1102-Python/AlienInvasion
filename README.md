@@ -9,10 +9,15 @@ I read 《Python Crash Course》 and found it, it's a funny game that made by Py
 
 It include 6 big part (class):
 1.Main code
+
 2.Settings (save all the attribute)
+
 3.Ship
+
 4.Alien
+
 5.Bullet
+
 6.Action (shooting, Delete the aliens from the screen and so on~)
 
 In each big part,it all has some small part, I won't elaborate here.
